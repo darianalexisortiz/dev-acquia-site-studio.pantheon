@@ -1,0 +1,6 @@
+name: acquia-site-studio
+recipe: pantheon
+config:
+  framework: drupal8
+  site: acquia-site-studio
+  id: fdc64dd7-dddb-4b07-8972-b2f73958687a
